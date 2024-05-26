@@ -3605,7 +3605,7 @@ input, select, textarea {
 
 /* Nav */
 
-	#nav {
+/*	#nav {
 		color: #ffffff;
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -3621,7 +3621,7 @@ input, select, textarea {
 		margin: -4rem auto 0 auto;
 		overflow: hidden;
 		padding: 0 2rem 0 0;
-		position: relative;
+		position: fixed;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
@@ -3751,12 +3751,89 @@ input, select, textarea {
 				display: none;
 			}
 
-		}
+		}*/
+
+/* Navigation bar container */
+#nav {
+    background-color: #1e252d;
+    display: flex;
+    justify-content: space-between;
+	align-items: center;
+    padding: 10px 20px;
+    font-family: Arial, sans-serif;
+	position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 1000; /* Ensures the nav bar is above other content */
+}
+
+/* Space for fixed nav bar */
+body {
+    padding-top: 60px; /* Adjust based on nav bar height */
+}
+
+/* Links styling */
+#nav .links {
+    display: flex;
+    align-items: center;
+}
+
+#nav .links li {
+    margin-right: 20px;
+}
+
+#nav .links li a {
+    color: white;
+    font-size: 16px;
+    text-transform: uppercase;
+    transition: color 0.3s;
+	border: none; /* Remove any borders on links */
+    outline: none; /* Remove any outlines on links */
+}
+
+#nav .links li.active a,
+#nav .links li a:hover {
+    color: white; /* Gold color for active and hover */
+}
+
+/* Icons styling */
+#nav .icons {
+    display: flex;
+    align-items: center;
+}
+
+#nav .icons li {
+    margin-left: 10px;
+}
+
+#nav .icons li a {
+    color: white;
+    font-size: 20px;
+    transition: color 0.3s;
+}
+
+#nav .icons li a:hover {
+    color: white; /* Change icon color to white on hover */
+}
+
+/* Remove dotted lines under nav content */
+#nav a:focus {
+    outline: none; /* Removes the dotted outline on focus */
+}
+
+/* Additional styles for better visuals */
+#nav .links li a:hover,
+#nav .icons li a:hover {
+    color: white;
+}
 
 /* Main */
 
 	#main {
-		background-color: #ffffff;
+		background-color: rgba(255, 255, 255, 0.075);
+		color: white;
+		border-color: #eeeeee;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
@@ -3767,6 +3844,8 @@ input, select, textarea {
 		#main > * {
 			padding: 4rem 4rem 2rem 4rem ;
 			border-top: solid 2px #eeeeee;
+			border-bottom: solid 2px #eeeeee;
+			
 			margin: 0;
 		}
 
@@ -3786,11 +3865,17 @@ input, select, textarea {
 				margin-top: -2rem;
 			}
 
-			#main > .post header.major > h1, #main > .post header.major h2 {
+			#main > .post header.major > h1, #main > .post header.major h2 , #main > .post header.major1 >h2{
 				font-size: 4rem;
 				line-height: 1.1;
 				margin: 0 0 2rem 0;
+				color: rgb(181, 181, 168);
 			}
+			 .major1 h3 {
+				color: rgb(181, 181, 168);
+			}
+
+			
 
 			#main > .post.featured {
 				text-align: center;
@@ -3856,6 +3941,13 @@ input, select, textarea {
 				width: 50%;
 			}
 
+			#main > .posts > article >header>h2 {
+				color: rgb(181, 181, 168);
+			}
+			.button {
+				background-color: whitesmoke; /* Change this to your desired color */
+			}
+			
 			#main > .posts > * {
 				padding: 4rem;
 				width: 50%;
@@ -3953,14 +4045,15 @@ input, select, textarea {
 		display: -webkit-flex;
 		display: -ms-flex;
 		display: flex;
-		background-color: #f5f5f5;
-		color: #909498;
+		background-color: rgba(255, 255, 255, 0.075);
+		color: white;
 		cursor: default;
 		position: relative;
 		margin: 0 auto;
 		width: calc(100% - 4rem);
 		max-width: 72rem;
 		z-index: 2;
+		border-left: white;
 	}
 
 		#footer input, #footer select, #footer textarea {
@@ -3968,7 +4061,7 @@ input, select, textarea {
 		}
 
 		#footer a {
-			color: #717981;
+			color: white;
 			border-bottom-color: rgba(113, 121, 129, 0.5);
 		}
 
@@ -3982,7 +4075,7 @@ input, select, textarea {
 		}
 
 		#footer h1, #footer h2, #footer h3, #footer h4, #footer h5, #footer h6 {
-			color: #717981;
+			color: white;
 		}
 
 		#footer blockquote {
@@ -4687,3 +4780,19 @@ input, select, textarea {
 		}
 
 	}
+/* Additional styles for certification section */
+#certifications {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 100px; /* Adds space between the items */
+    text-align: center;
+	text-decoration: none !important; /* Ensure no text decoration is applied */
+}
+
+.long-line {
+	border-bottom: 1px solid white; /* Change color and style as needed */
+	margin: 60px 0; /* Adjust spacing as needed */}
+	
+
+

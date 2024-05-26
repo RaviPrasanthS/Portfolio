@@ -1,0 +1,265 @@
+﻿Country_Code,Location_ID,Location
+AS,4,"Afghanistan, Islamic Republic of"
+EU,8,"Albania, Republic of"
+AN,10,Antarctica (the territory South of 60 deg S)
+AF,12,"Algeria, People's Democratic Republic of"
+OC,16,American Samoa
+EU,20,"Andorra, Principality of"
+AF,24,"Angola, Republic of"
+NA,28,Antigua and Barbuda
+EU,31,"Azerbaijan, Republic of"
+AS,31,"Azerbaijan, Republic of"
+SA,32,"Argentina, Argentine Republic"
+OC,36,"Australia, Commonwealth of"
+EU,40,"Austria, Republic of"
+NA,44,"Bahamas, Commonwealth of the"
+AS,48,"Bahrain, Kingdom of"
+AS,50,"Bangladesh, People's Republic of"
+EU,51,"Armenia, Republic of"
+AS,51,"Armenia, Republic of"
+NA,52,Barbados
+EU,56,"Belgium, Kingdom of"
+NA,60,Bermuda
+AS,64,"Bhutan, Kingdom of"
+SA,68,"Bolivia, Republic of"
+EU,70,Bosnia and Herzegovina
+AF,72,"Botswana, Republic of"
+AN,74,Bouvet Island (Bouvetoya)
+SA,76,"Brazil, Federative Republic of"
+NA,84,Belize
+AS,86,British Indian Ocean Territory (Chagos Archipelago)
+OC,90,Solomon Islands
+NA,92,British Virgin Islands
+AS,96,Brunei Darussalam
+EU,100,"Bulgaria, Republic of"
+AS,104,"Myanmar, Union of"
+AF,108,"Burundi, Republic of"
+EU,112,"Belarus, Republic of"
+AS,116,"Cambodia, Kingdom of"
+AF,120,"Cameroon, Republic of"
+NA,124,Canada
+AF,132,"Cape Verde, Republic of"
+NA,136,Cayman Islands
+AF,140,Central African Republic
+AS,144,"Sri Lanka, Democratic Socialist Republic of"
+AF,148,"Chad, Republic of"
+SA,152,"Chile, Republic of"
+AS,156,"China, People's Republic of"
+AS,158,Taiwan
+AS,162,Christmas Island
+AS,166,Cocos (Keeling) Islands
+SA,170,"Colombia, Republic of"
+AF,174,"Comoros, Union of the"
+AF,175,Mayotte
+AF,178,"Congo, Republic of the"
+AF,180,"Congo, Democratic Republic of the"
+OC,184,Cook Islands
+NA,188,"Costa Rica, Republic of"
+EU,191,"Croatia, Republic of"
+NA,192,"Cuba, Republic of"
+EU,196,"Cyprus, Republic of"
+AS,196,"Cyprus, Republic of"
+EU,203,Czech Republic
+AF,204,"Benin, Republic of"
+EU,208,"Denmark, Kingdom of"
+NA,212,"Dominica, Commonwealth of"
+NA,214,Dominican Republic
+SA,218,"Ecuador, Republic of"
+NA,222,"El Salvador, Republic of"
+AF,226,"Equatorial Guinea, Republic of"
+AF,231,"Ethiopia, Federal Democratic Republic of"
+AF,232,"Eritrea, State of"
+EU,233,"Estonia, Republic of"
+EU,234,Faroe Islands
+SA,238,Falkland Islands (Malvinas)
+AN,239,South Georgia and the South Sandwich Islands
+OC,242,"Fiji, Republic of the Fiji Islands"
+EU,246,"Finland, Republic of"
+EU,248,Åland Islands
+EU,250,"France, French Republic"
+SA,254,French Guiana
+OC,258,French Polynesia
+AN,260,French Southern Territories
+AF,262,"Djibouti, Republic of"
+AF,266,"Gabon, Gabonese Republic"
+EU,268,Georgia
+AS,268,Georgia
+AF,270,"Gambia, Republic of the"
+AS,275,"Palestinian Territory, Occupied"
+EU,276,"Germany, Federal Republic of"
+AF,288,"Ghana, Republic of"
+EU,292,Gibraltar
+OC,296,"Kiribati, Republic of"
+EU,300,"Greece, Hellenic Republic"
+NA,304,Greenland
+NA,308,Grenada
+NA,312,Guadeloupe
+OC,316,Guam
+NA,320,"Guatemala, Republic of"
+AF,324,"Guinea, Republic of"
+SA,328,"Guyana, Co-operative Republic of"
+NA,332,"Haiti, Republic of"
+AN,334,Heard Island and McDonald Islands
+EU,336,Holy See (Vatican City State)
+NA,340,"Honduras, Republic of"
+AS,344,"Hong Kong, Special Administrative Region of China"
+EU,348,"Hungary, Republic of"
+EU,352,"Iceland, Republic of"
+AS,356,"India, Republic of"
+AS,360,"Indonesia, Republic of"
+AS,364,"Iran, Islamic Republic of"
+AS,368,"Iraq, Republic of"
+EU,372,Ireland
+AS,376,"Israel, State of"
+EU,380,"Italy, Italian Republic"
+AF,384,"Cote d'Ivoire, Republic of"
+NA,388,Jamaica
+AS,392,Japan
+EU,398,"Kazakhstan, Republic of"
+AS,398,"Kazakhstan, Republic of"
+AS,400,"Jordan, Hashemite Kingdom of"
+AF,404,"Kenya, Republic of"
+AS,408,"Korea, Democratic People's Republic of"
+AS,410,"Korea, Republic of"
+AS,414,"Kuwait, State of"
+AS,417,Kyrgyz Republic
+AS,418,Lao People's Democratic Republic
+AS,422,"Lebanon, Lebanese Republic"
+AF,426,"Lesotho, Kingdom of"
+EU,428,"Latvia, Republic of"
+AF,430,"Liberia, Republic of"
+AF,434,Libyan Arab Jamahiriya
+EU,438,"Liechtenstein, Principality of"
+EU,440,"Lithuania, Republic of"
+EU,442,"Luxembourg, Grand Duchy of"
+AS,446,"Macao, Special Administrative Region of China"
+AF,450,"Madagascar, Republic of"
+AF,454,"Malawi, Republic of"
+AS,458,Malaysia
+AS,462,"Maldives, Republic of"
+AF,466,"Mali, Republic of"
+EU,470,"Malta, Republic of"
+NA,474,Martinique
+AF,478,"Mauritania, Islamic Republic of"
+AF,480,"Mauritius, Republic of"
+NA,484,"Mexico, United Mexican States"
+EU,492,"Monaco, Principality of"
+AS,496,Mongolia
+EU,498,"Moldova, Republic of"
+EU,499,"Montenegro, Republic of"
+NA,500,Montserrat
+AF,504,"Morocco, Kingdom of"
+AF,508,"Mozambique, Republic of"
+AS,512,"Oman, Sultanate of"
+AF,516,"Namibia, Republic of"
+OC,520,"Nauru, Republic of"
+AS,524,"Nepal, State of"
+EU,528,"Netherlands, Kingdom of the"
+NA,530,Netherlands Antilles
+NA,531,Curaçao
+NA,533,Aruba
+NA,534,Sint Maarten (Netherlands)
+NA,535,"Bonaire, Sint Eustatius and Saba"
+OC,540,New Caledonia
+OC,548,"Vanuatu, Republic of"
+OC,554,New Zealand
+NA,558,"Nicaragua, Republic of"
+AF,562,"Niger, Republic of"
+AF,566,"Nigeria, Federal Republic of"
+OC,570,Niue
+OC,574,Norfolk Island
+EU,578,"Norway, Kingdom of"
+OC,580,"Northern Mariana Islands, Commonwealth of the"
+OC,581,United States Minor Outlying Islands
+NA,581,United States Minor Outlying Islands
+OC,583,"Micronesia, Federated States of"
+OC,584,"Marshall Islands, Republic of the"
+OC,585,"Palau, Republic of"
+AS,586,"Pakistan, Islamic Republic of"
+NA,591,"Panama, Republic of"
+OC,598,"Papua New Guinea, Independent State of"
+SA,600,"Paraguay, Republic of"
+SA,604,"Peru, Republic of"
+AS,608,"Philippines, Republic of the"
+OC,612,Pitcairn Islands
+EU,616,"Poland, Republic of"
+EU,620,"Portugal, Portuguese Republic"
+AF,624,"Guinea-Bissau, Republic of"
+AS,626,"Timor-Leste, Democratic Republic of"
+NA,630,"Puerto Rico, Commonwealth of"
+AS,634,"Qatar, State of"
+AF,638,Reunion
+EU,642,Romania
+EU,643,Russian Federation
+AS,643,Russian Federation
+AF,646,"Rwanda, Republic of"
+NA,652,Saint Barthelemy
+AF,654,Saint Helena
+NA,659,"Saint Kitts and Nevis, Federation of"
+NA,660,Anguilla
+NA,662,Saint Lucia
+NA,663,Saint Martin
+NA,666,Saint Pierre and Miquelon
+NA,670,Saint Vincent and the Grenadines
+EU,674,"San Marino, Republic of"
+AF,678,"Sao Tome and Principe, Democratic Republic of"
+AS,682,"Saudi Arabia, Kingdom of"
+AF,686,"Senegal, Republic of"
+EU,688,"Serbia, Republic of"
+AF,690,"Seychelles, Republic of"
+AF,694,"Sierra Leone, Republic of"
+AS,702,"Singapore, Republic of"
+EU,703,Slovakia (Slovak Republic)
+AS,704,"Vietnam, Socialist Republic of"
+EU,705,"Slovenia, Republic of"
+AF,706,"Somalia, Somali Republic"
+AF,710,"South Africa, Republic of"
+AF,716,"Zimbabwe, Republic of"
+EU,724,"Spain, Kingdom of"
+AF,728,South Sudan
+AF,732,Western Sahara
+AF,736,"Sudan, Republic of"
+SA,740,"Suriname, Republic of"
+EU,744,Svalbard & Jan Mayen Islands
+AF,748,"Swaziland, Kingdom of"
+EU,752,"Sweden, Kingdom of"
+EU,756,"Switzerland, Swiss Confederation"
+AS,760,Syrian Arab Republic
+AS,762,"Tajikistan, Republic of"
+AS,764,"Thailand, Kingdom of"
+AF,768,"Togo, Togolese Republic"
+OC,772,Tokelau
+OC,776,"Tonga, Kingdom of"
+NA,780,"Trinidad and Tobago, Republic of"
+AS,784,United Arab Emirates
+AF,788,"Tunisia, Tunisian Republic"
+EU,792,"Turkey, Republic of"
+AS,792,"Turkey, Republic of"
+AS,795,Turkmenistan
+NA,796,Turks and Caicos Islands
+OC,798,Tuvalu
+AF,800,"Uganda, Republic of"
+EU,804,Ukraine
+EU,807,"Macedonia, The Former Yugoslav Republic of"
+AF,818,"Egypt, Arab Republic of"
+EU,826,United Kingdom of Great Britain & Northern Ireland
+EU,831,"Guernsey, Bailiwick of"
+EU,832,"Jersey, Bailiwick of"
+EU,833,Isle of Man
+AF,834,"Tanzania, United Republic of"
+NA,840,United States of America
+NA,850,United States Virgin Islands
+AF,854,Burkina Faso
+SA,858,"Uruguay, Eastern Republic of"
+AS,860,"Uzbekistan, Republic of"
+SA,862,"Venezuela, Bolivarian Republic of"
+OC,876,Wallis and Futuna
+OC,882,"Samoa, Independent State of"
+AS,887,Yemen
+AF,894,"Zambia, Republic of"
+OC,,Disputed Territory
+AS,,Iraq-Saudi Arabia Neutral Zone
+AS,,United Nations Neutral Zone
+AS,,Spratly Islands
+ZZ,,
+ZZ,,
